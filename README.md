@@ -1,6 +1,6 @@
-# sea_sentinels
+# Sea Sentinels
 
-Progetto tesi SeaSentinels
+Tesi progetto SeaSentinels
 
 ## Getting Started
 
